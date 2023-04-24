@@ -1,0 +1,10 @@
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\bin\Debug\SafeCopy.dll
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\bin\Debug\SafeCopy.pdb
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\obj\Debug\SafeCopy.csproj.AssemblyReference.cache
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\obj\Debug\SafeCopy.csproj.CoreCompileInputs.cache
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\obj\Debug\SafeCopy.dll
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\obj\Debug\SafeCopy.pdb
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\obj\Debug\MainWindow.g.cs
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\obj\Debug\SafeCopy_MarkupCompile.cache
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\obj\Debug\MainWindow.baml
+C:\Users\Kasymov_zv\source\repos\SafeCopy\SafeCopy\obj\Debug\SafeCopy.g.resources

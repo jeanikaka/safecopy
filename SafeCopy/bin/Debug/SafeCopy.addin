@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>External Tool</Name>
+    <Assembly>SafeCopy.dll</Assembly>
+    <ClientId>5b90824c-95b2-4ca4-a143-430291fc0d01</ClientId>
+    <FullClassName>SafeCopy.SafeCopyApp</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>SafeCopy.dll</Assembly>
+    <ClientId>f550b3dd-dc35-4f96-b3bb-d82c1e6b9a88</ClientId>
+    <FullClassName>SafeCopy.SafeCopyMain</FullClassName>
+    <Text>SafeCopyMain</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
